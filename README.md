@@ -7,3 +7,8 @@ Feel free to spend your time on going through my projects and help me improving 
 
 Thanks,
 Maharajan.
+
+Git URL's
+
+    Election using Ethereum Blockchain - https://github.com/Maharajan-02/E_Election.git
+    Job Portal using Ethereum Blockchain - https://github.com/Maharajan-02/JobPortal.git
